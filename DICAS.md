@@ -1,6 +1,7 @@
 1. Criar um portal com foco em elementos relevantes para a garantia da qualidade;
 
 2. Portais de software aberto podem ser consultados em https://www.openhub.net/, observando especificamente os elementos listados na especificação da alternativa 1:
+   
    a. Definição de processo de desenvolvimento do sistema de software que foque na garantia da qualidade: como é o processo de desenvolvimento a ser adotado, como os contribuidores devem trabalhar;
 
    b. Listas de correio eletrônico e IRC (descrever os objetivos de cada lista e canal): quais os canais de comunicação que os grandes projetos disponibilizam e para que? Listar os nomes e explicar o objetivo, não é necessário de fato fornecer o serviço (pode ser um endereço fictício);
@@ -13,7 +14,7 @@
 
    f. Padrão de codificação: escolher a(s) linguagem(s) e então escolher o padrão. Verificar, em grandes projetos, a sessão voltada ao desenvolvedor;
 
-   g. Ligação (link) para sistema de controle de versões: trivial;
+   ~~g. Ligação (link) para sistema de controle de versões: trivial;~~
 
    h. Recurso embasado em taxonomia, para coleta de dados sobre falhas e defeitos identificados: como será possível reportar falhas e defeitos? Utilizar normas sobre taxonomia de defeitos como referência. Conjuntos de termos, organizados de forma hierárquica. Guia para reportar falhas e defeitos de forma padronizada, de forma a eliminar possíveis ambiguidades. Exemplo: classificar o defeito de acordo com determinadas classes, preencher determinados campos. Não é necessário implementar a submissão.
 
