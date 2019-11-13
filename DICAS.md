@@ -8,7 +8,7 @@
    6. Padrão de codificação: escolher a(s) linguagem(s) e então escolher o padrão. Verificar, em grandes projetos, a sessão voltada ao desenvolvedor;
    7. ~~Ligação (link) para sistema de controle de versões: trivial;~~
    8. Recurso embasado em taxonomia, para coleta de dados sobre falhas e defeitos identificados: como será possível reportar falhas e defeitos? Utilizar normas sobre taxonomia de defeitos como referência. Conjuntos de termos, organizados de forma hierárquica. Guia para reportar falhas e defeitos de forma padronizada, de forma a eliminar possíveis ambiguidades. Exemplo: classificar o defeito de acordo com determinadas classes, preencher determinados campos. Não é necessário implementar a submissão.
-3. Itens a e d são os que demandam mais escrita;
+3. Itens i e iv são os que demandam mais escrita;
 4. Outro exemplo: http://www.utm.mx/~caff/doc/OpenUPWeb/index.htm;
 5. Buscar por portais somente de qualidade. É possível encontrar para grandes projetos. Pode ser uma sessão específica do portal;
 6. Portal pode conter links para download do conteúdo relevante, em PDF, por exemplo.
